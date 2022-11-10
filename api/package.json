@@ -1,0 +1,8 @@
+{
+  "name": "cosuno-challenge-api",
+  "version": "1.0.0",
+  "description": "Cosuno Coding Challenge – API",
+  "main": "index.js",
+  "author": "Maximilian Seifert",
+  "license": "MIT"
+}
