@@ -1,11 +1,6 @@
 import React, { useEffect, useState } from "react";
-
-interface Company {
-  id: string;
-  name: string;
-  logoUrl: string;
-  specialties: string[];
-}
+import { Company } from "../types";
+import CompanyCard from "./CompanyCard";
 
 const CompanyList: React.FC = () => {
   const [companies, setCompanies] = useState<Company[]>([]);
@@ -18,11 +13,11 @@ const CompanyList: React.FC = () => {
   }, []);
 
   return (
-    <>
+    <div className="CompanyList">
       {companies.map((company) => (
-        <div key={company.id}>{company.name}</div>
+        <CompanyCard key={company.id} {...company} />
       ))}
-    </>
+    </div>
   );
 };
 

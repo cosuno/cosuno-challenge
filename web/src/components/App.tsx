@@ -1,11 +1,6 @@
 import React from "react";
-import "./App.css";
 import CompanyList from "./CompanyList";
 
-const App: React.FC = () => (
-  <div className="App">
-    <CompanyList />
-  </div>
-);
+const App: React.FC = () => <CompanyList />;
 
 export default App;
