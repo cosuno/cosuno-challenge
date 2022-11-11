@@ -11,6 +11,7 @@ const App: React.FC = () => {
         <input
           type="text"
           value={searchQuery}
+          placeholder="Search"
           onChange={(event) => setSearchQuery(event.target.value)}
         />
       </div>
