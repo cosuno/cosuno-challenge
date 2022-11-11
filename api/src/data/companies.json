@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "name": "Corwin and Sons",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Insulation", "Landscaping", "Ironworking", "Carpentry"]
+  },
+  {
+    "id": 2,
+    "name": "Crona - Marks",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Insulation", "Masonry", "Plumbing"]
+  },
+  {
+    "id": 3,
+    "name": "Gleichner - Mann",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Ironworking", "Carpentry"]
+  },
+  {
+    "id": 4,
+    "name": "Casper Group",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Insulation", "Painting"]
+  },
+  {
+    "id": 5,
+    "name": "Weber, Doyle and Jacobi",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Welding", "Ironworking", "Painting"]
+  },
+  {
+    "id": 6,
+    "name": "Pfeffer Inc",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Painting"]
+  },
+  {
+    "id": 7,
+    "name": "Schamberger LLC",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Carpentry"]
+  },
+  {
+    "id": 8,
+    "name": "Bosco, Renner and Waelchi",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Carpentry"]
+  },
+  {
+    "id": 9,
+    "name": "Leffler - Hettinger",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Ironworking"]
+  },
+  {
+    "id": 10,
+    "name": "Fritsch LLC",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Plumbing", "Insulation", "Landscaping", "Ironworking"]
+  },
+  {
+    "id": 11,
+    "name": "Schultz Group",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Welding"]
+  },
+  {
+    "id": 12,
+    "name": "Pollich - Rempel",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Carpentry", "Ironworking"]
+  },
+  {
+    "id": 13,
+    "name": "Schiller LLC",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Plumbing", "Insulation"]
+  },
+  {
+    "id": 14,
+    "name": "Altenwerth - West",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Masonry"]
+  },
+  {
+    "id": 15,
+    "name": "Jaskolski, Lesch and Yundt",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Landscaping", "Carpentry", "Masonry"]
+  },
+  {
+    "id": 16,
+    "name": "Witting - Maggio",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Ironworking"]
+  },
+  {
+    "id": 17,
+    "name": "Huels, Legros and Nader",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Masonry"]
+  },
+  {
+    "id": 18,
+    "name": "Hirthe - Beier",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Carpentry"]
+  },
+  {
+    "id": 19,
+    "name": "Grimes - Langosh",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Ironworking", "Masonry"]
+  },
+  {
+    "id": 20,
+    "name": "Maggio - Kozey",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Ironworking", "Landscaping", "Painting", "Insulation"]
+  },
+  {
+    "id": 21,
+    "name": "Grady, Mante and Abernathy",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Welding", "Painting"]
+  },
+  {
+    "id": 22,
+    "name": "Botsford - Okuneva",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Carpentry", "Landscaping"]
+  },
+  {
+    "id": 23,
+    "name": "Fritsch, Kiehn and Hyatt",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Welding", "Landscaping", "Carpentry"]
+  },
+  {
+    "id": 24,
+    "name": "Connelly, Schimmel and Howe",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Ironworking", "Landscaping", "Insulation"]
+  },
+  {
+    "id": 25,
+    "name": "O'Connell and Sons",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Painting", "Ironworking"]
+  },
+  {
+    "id": 26,
+    "name": "Metz, Hickle and Cronin",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Plumbing"]
+  },
+  {
+    "id": 27,
+    "name": "Gibson Inc",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Welding", "Ironworking"]
+  },
+  {
+    "id": 28,
+    "name": "Veum and Sons",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Masonry"]
+  },
+  {
+    "id": 29,
+    "name": "Glover LLC",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Masonry"]
+  },
+  {
+    "id": 30,
+    "name": "Ratke Group",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Masonry", "Plumbing"]
+  },
+  {
+    "id": 31,
+    "name": "Medhurst, Labadie and Altenwerth",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Welding", "Painting", "Carpentry"]
+  },
+  {
+    "id": 32,
+    "name": "Feil Group",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Carpentry"]
+  },
+  {
+    "id": 33,
+    "name": "Langosh Group",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Landscaping", "Welding", "Masonry", "Carpentry"]
+  },
+  {
+    "id": 34,
+    "name": "Orn Group",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Insulation"]
+  },
+  {
+    "id": 35,
+    "name": "Marvin LLC",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Plumbing", "Insulation", "Painting"]
+  },
+  {
+    "id": 36,
+    "name": "Hermiston - Konopelski",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Masonry", "Ironworking"]
+  },
+  {
+    "id": 37,
+    "name": "Schoen - Hermiston",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Ironworking", "Plumbing"]
+  },
+  {
+    "id": 38,
+    "name": "Kunze Inc",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Carpentry", "Painting", "Welding"]
+  },
+  {
+    "id": 39,
+    "name": "Lebsack, Mraz and Bednar",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Ironworking"]
+  },
+  {
+    "id": 40,
+    "name": "Jenkins - Harris",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Masonry", "Ironworking", "Carpentry"]
+  },
+  {
+    "id": 41,
+    "name": "Bechtelar and Sons",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Carpentry", "Ironworking", "Insulation"]
+  },
+  {
+    "id": 42,
+    "name": "Goldner - Anderson",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Carpentry", "Landscaping"]
+  },
+  {
+    "id": 43,
+    "name": "Lubowitz, Herman and Hoppe",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Ironworking", "Masonry", "Insulation", "Plumbing"]
+  },
+  {
+    "id": 44,
+    "name": "Rutherford and Sons",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Painting", "Ironworking", "Plumbing", "Carpentry"]
+  },
+  {
+    "id": 45,
+    "name": "Mohr - Terry",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Insulation", "Masonry", "Painting", "Welding"]
+  },
+  {
+    "id": 46,
+    "name": "Hamill and Sons",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Welding", "Landscaping", "Plumbing"]
+  },
+  {
+    "id": 47,
+    "name": "Jerde - Hauck",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Ironworking", "Painting", "Landscaping"]
+  },
+  {
+    "id": 48,
+    "name": "Shields, Boyle and Frami",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Masonry", "Insulation", "Carpentry"]
+  },
+  {
+    "id": 49,
+    "name": "Rolfson - Bosco",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Ironworking", "Carpentry", "Welding", "Landscaping"]
+  },
+  {
+    "id": 50,
+    "name": "Block - Schumm",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Landscaping", "Masonry", "Insulation", "Welding"]
+  },
+  {
+    "id": 51,
+    "name": "Beahan, Wolf and Hane",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Ironworking", "Welding", "Insulation"]
+  },
+  {
+    "id": 52,
+    "name": "Schaefer, Hahn and Sporer",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Plumbing", "Welding", "Insulation"]
+  },
+  {
+    "id": 53,
+    "name": "Padberg, Schuppe and Altenwerth",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Insulation", "Masonry", "Carpentry"]
+  },
+  {
+    "id": 54,
+    "name": "Marvin, Franecki and Tremblay",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Ironworking", "Welding", "Plumbing", "Landscaping"]
+  },
+  {
+    "id": 55,
+    "name": "Greenholt - Walter",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Plumbing"]
+  },
+  {
+    "id": 56,
+    "name": "Gislason, Simonis and White",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Plumbing"]
+  },
+  {
+    "id": 57,
+    "name": "Wilderman, Lynch and Cole",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Carpentry", "Painting", "Insulation", "Masonry"]
+  },
+  {
+    "id": 58,
+    "name": "Kuhic - Lemke",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Ironworking"]
+  },
+  {
+    "id": 59,
+    "name": "Auer, Simonis and Mraz",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Carpentry", "Insulation"]
+  },
+  {
+    "id": 60,
+    "name": "Bartell, Sauer and Goyette",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Carpentry", "Masonry"]
+  },
+  {
+    "id": 61,
+    "name": "Donnelly LLC",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Insulation", "Painting", "Ironworking"]
+  },
+  {
+    "id": 62,
+    "name": "Haley - Tillman",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Carpentry", "Insulation"]
+  },
+  {
+    "id": 63,
+    "name": "Smitham, Casper and Beer",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Carpentry", "Insulation"]
+  },
+  {
+    "id": 64,
+    "name": "Powlowski LLC",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Painting", "Masonry"]
+  },
+  {
+    "id": 65,
+    "name": "Orn - Graham",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Masonry", "Ironworking"]
+  },
+  {
+    "id": 66,
+    "name": "Bednar - White",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Carpentry"]
+  },
+  {
+    "id": 67,
+    "name": "Bernier - Simonis",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Masonry", "Carpentry"]
+  },
+  {
+    "id": 68,
+    "name": "Bernier - Becker",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Ironworking", "Welding", "Masonry"]
+  },
+  {
+    "id": 69,
+    "name": "Reynolds - Fay",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Masonry", "Plumbing", "Insulation"]
+  },
+  {
+    "id": 70,
+    "name": "McClure and Sons",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Carpentry"]
+  },
+  {
+    "id": 71,
+    "name": "Heidenreich Inc",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Insulation", "Painting", "Carpentry"]
+  },
+  {
+    "id": 72,
+    "name": "Rice, Leuschke and Kilback",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Carpentry", "Ironworking", "Welding"]
+  },
+  {
+    "id": 73,
+    "name": "Bosco, Kunde and Wuckert",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Ironworking", "Landscaping", "Painting", "Plumbing"]
+  },
+  {
+    "id": 74,
+    "name": "Nolan Inc",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Carpentry", "Plumbing", "Insulation", "Ironworking"]
+  },
+  {
+    "id": 75,
+    "name": "Carroll LLC",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Landscaping", "Carpentry", "Plumbing"]
+  },
+  {
+    "id": 76,
+    "name": "Klein - Larson",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Masonry"]
+  },
+  {
+    "id": 77,
+    "name": "Corkery, Boyer and Price",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Welding"]
+  },
+  {
+    "id": 78,
+    "name": "Romaguera LLC",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Insulation", "Welding", "Carpentry"]
+  },
+  {
+    "id": 79,
+    "name": "Bernier and Sons",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Plumbing", "Welding", "Landscaping"]
+  },
+  {
+    "id": 80,
+    "name": "Sanford - Boehm",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Painting", "Masonry"]
+  },
+  {
+    "id": 81,
+    "name": "West, Botsford and Thiel",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Ironworking", "Insulation"]
+  },
+  {
+    "id": 82,
+    "name": "Gusikowski - Nolan",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Painting", "Masonry"]
+  },
+  {
+    "id": 83,
+    "name": "Watsica, Swaniawski and Osinski",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Insulation", "Plumbing", "Carpentry"]
+  },
+  {
+    "id": 84,
+    "name": "Collier, Cremin and Doyle",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Welding", "Painting", "Carpentry"]
+  },
+  {
+    "id": 85,
+    "name": "Hodkiewicz, O'Connell and Keeling",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Plumbing", "Welding"]
+  },
+  {
+    "id": 86,
+    "name": "Hayes, Huel and Raynor",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Plumbing", "Welding", "Landscaping"]
+  },
+  {
+    "id": 87,
+    "name": "Breitenberg - Wisozk",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Masonry", "Landscaping", "Painting", "Welding"]
+  },
+  {
+    "id": 88,
+    "name": "Bailey - Bins",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Ironworking"]
+  },
+  {
+    "id": 89,
+    "name": "White, Robel and Sauer",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Welding", "Ironworking", "Painting", "Carpentry"]
+  },
+  {
+    "id": 90,
+    "name": "Hermiston Group",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Landscaping", "Welding", "Masonry"]
+  },
+  {
+    "id": 91,
+    "name": "Rempel Inc",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Painting", "Insulation"]
+  },
+  {
+    "id": 92,
+    "name": "Jaskolski - Greenfelder",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Insulation", "Ironworking"]
+  },
+  {
+    "id": 93,
+    "name": "Muller - McGlynn",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Landscaping"]
+  },
+  {
+    "id": 94,
+    "name": "Davis Group",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Welding"]
+  },
+  {
+    "id": 95,
+    "name": "Mann - Bernhard",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Painting", "Insulation"]
+  },
+  {
+    "id": 96,
+    "name": "Koss, Walsh and Huels",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Painting", "Insulation", "Carpentry"]
+  },
+  {
+    "id": 97,
+    "name": "Crooks, Medhurst and Strosin",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Welding", "Masonry", "Carpentry"]
+  },
+  {
+    "id": 98,
+    "name": "O'Conner and Sons",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Welding", "Landscaping"]
+  },
+  {
+    "id": 99,
+    "name": "Ernser - Mayert",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Painting", "Carpentry", "Welding", "Landscaping"]
+  },
+  {
+    "id": 100,
+    "name": "Gleason, Lueilwitz and Deckow",
+    "logoUrl": "https://picsum.photos/200/200",
+    "specialties": ["Carpentry", "Masonry", "Insulation", "Ironworking"]
+  }
+]
