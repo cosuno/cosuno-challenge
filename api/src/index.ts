@@ -19,8 +19,15 @@ const port = 3001;
 
 app.use(cors());
 
-app.get("/companies", (_req, res) => {
-  res.send(companies);
+app.get("/companies", (req, res) => {
+  const searchQuery = req.query.query as string | undefined;
+  const filteredCompanies = companies.filter((company) =>
+    searchQuery
+      ? company.name.toLowerCase().includes(searchQuery.toLowerCase())
+      : true
+  );
+
+  res.send(filteredCompanies);
 });
 
 app.get("/companies/random", (_req, res) => {
