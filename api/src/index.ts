@@ -1,6 +1,7 @@
 import cors from "cors";
 import express from "express";
 import { faker } from "@faker-js/faker";
+import companies from "./data/companies.json";
 
 const SPECIALTIES = [
   "Carpentry",
@@ -19,19 +20,27 @@ const port = 3001;
 app.use(cors());
 
 app.get("/companies", (_req, res) => {
-  const companies = Array(100)
-    .fill(undefined)
-    .map((_, index) => ({
-      id: index + 1,
-      name: faker.company.name(),
-      logoUrl: "https://picsum.photos/200/200",
-      specialties: faker.helpers.arrayElements(
-        SPECIALTIES,
-        faker.datatype.number({ min: 1, max: 4 })
-      ),
-    }));
-
   res.send(companies);
+});
+
+app.get("/companies/random", (_req, res) => {
+  const randomCompanies = Array(100)
+    .fill(undefined)
+    .map((_, index) => {
+      const id = index + 1;
+
+      return {
+        id,
+        name: faker.company.name(),
+        logoUrl: `https://picsum.photos/seed/cosuno-${id}/200`,
+        specialties: faker.helpers.arrayElements(
+          SPECIALTIES,
+          faker.datatype.number({ min: 1, max: 4 })
+        ),
+      };
+    });
+
+  res.send(randomCompanies);
 });
 
 app.listen(port, () => {
