@@ -1,5 +1,5 @@
-import { Company } from "../types";
-import "./CompanyCard.css";
+import { Company } from '../types';
+import './CompanyCard.css';
 
 const CompanyCard: React.FC<Company> = ({ name, logoUrl, specialties }) => (
   <div className="CompanyCard">

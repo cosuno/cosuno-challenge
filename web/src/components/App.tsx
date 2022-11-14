@@ -1,9 +1,9 @@
-import React, { useState } from "react";
-import CompanyList from "./CompanyList";
-import "./App.css";
+import React, { useState } from 'react';
+import CompanyList from './CompanyList';
+import './App.css';
 
 const App: React.FC = () => {
-  const [searchQuery, setSearchQuery] = useState("");
+  const [searchQuery, setSearchQuery] = useState('');
 
   return (
     <>

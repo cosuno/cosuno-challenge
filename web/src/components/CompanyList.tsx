@@ -1,6 +1,6 @@
-import React, { useEffect, useState } from "react";
-import { Company } from "../types";
-import CompanyCard from "./CompanyCard";
+import React, { useEffect, useState } from 'react';
+import { Company } from '../types';
+import CompanyCard from './CompanyCard';
 
 interface Props {
   searchQuery: string;
@@ -11,9 +11,7 @@ const CompanyList: React.FC<Props> = ({ searchQuery }) => {
 
   useEffect(() => {
     void (async () => {
-      const response = await fetch(
-        `http://localhost:3001/companies?query=${searchQuery}`
-      );
+      const response = await fetch(`http://localhost:3001/companies?query=${searchQuery}`);
       setCompanies(await response.json());
     })();
   }, [searchQuery]);
