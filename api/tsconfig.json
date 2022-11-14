@@ -3,6 +3,6 @@
     "esModuleInterop": true,
     "resolveJsonModule": true,
   },
-  "include": ["src"],
+  "include": ["src", ".eslintrc.js"],
   "exclude": ["node_modules"],
 }

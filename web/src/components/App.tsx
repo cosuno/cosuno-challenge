@@ -1,8 +1,9 @@
 import React, { useState } from 'react';
+
 import CompanyList from './CompanyList';
 import './App.css';
 
-const App: React.FC = () => {
+function App() {
   const [searchQuery, setSearchQuery] = useState('');
 
   return (
@@ -18,6 +19,6 @@ const App: React.FC = () => {
       <CompanyList searchQuery={searchQuery} />
     </>
   );
-};
+}
 
 export default App;

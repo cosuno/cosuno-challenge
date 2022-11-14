@@ -1,6 +1,7 @@
 import cors from 'cors';
 import express from 'express';
 import { faker } from '@faker-js/faker';
+
 import companies from './data/companies.json';
 
 const SPECIALTIES = [
@@ -49,5 +50,6 @@ app.get('/companies/random', (_req, res) => {
 });
 
 app.listen(port, () => {
+  // eslint-disable-next-line no-console
   console.log(`API listening on port ${port}`);
 });
